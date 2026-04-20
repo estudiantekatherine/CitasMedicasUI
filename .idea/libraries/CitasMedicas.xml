@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CitasMedicas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../CitasMedicas/out/artifacts/CitasMedicas_jar/CitasMedicas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
